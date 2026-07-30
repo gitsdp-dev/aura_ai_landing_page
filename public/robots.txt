@@ -1,0 +1,18 @@
+# ===========================================
+# A.U.R.A. AI Assistant
+# https://aura-ai-cc.vercel.app
+# ===========================================
+
+User-agent: *
+
+Allow: /
+
+Disallow: /api/
+Disallow: /private/
+Disallow: /.git/
+Disallow: /node_modules/
+
+Crawl-delay: 2
+
+Sitemap: https://aura-ai-cc.vercel.app/sitemap.xml
+Host: https://aura-ai-cc.vercel.app

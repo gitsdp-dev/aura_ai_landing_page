@@ -1,0 +1,38 @@
+/* TEAM */
+
+Developer: CodeCrafters
+
+Website:
+https://aura-ai-cc.vercel.app
+
+GitHub:
+https://github.com/gitsdp-dev
+
+Role:
+Developer
+Designer
+Maintainer
+
+/* PROJECT */
+
+Project:
+A.U.R.A.
+
+Description:
+Open-source AI Desktop Assistant for Windows
+
+Technologies:
+
+Python
+
+AI
+
+HTML
+
+CSS
+
+JavaScript
+
+GitHub
+
+Vercel

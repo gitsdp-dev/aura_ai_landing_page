@@ -1,0 +1,84 @@
+# A.U.R.A. AI Assistant
+
+Version: 1.0
+
+Developer:
+CodeCrafters
+
+Website:
+https://aura-ai-cc.vercel.app
+
+Repository:
+https://github.com/gitsdp-dev/aura_ai_landing_page
+
+Overview
+
+A.U.R.A. is an open-source desktop AI assistant developed for Microsoft Windows.
+
+It provides:
+
+• Natural voice conversations
+
+• Desktop automation
+
+• Intelligent workflows
+
+• Local AI model compatibility
+
+• Privacy-focused architecture
+
+• Modern user interface
+
+• AI-powered productivity
+
+Target Audience
+
+Students
+
+Developers
+
+Researchers
+
+Professionals
+
+Power Users
+
+Key Features
+
+Voice Assistant
+
+Computer Control
+
+Desktop Automation
+
+AI Chat
+
+Offline AI Support
+
+Speech Recognition
+
+Productivity Tools
+
+Natural Language Commands
+
+Technology
+
+Python
+
+Artificial Intelligence
+
+Desktop Software
+
+Open Source
+
+License
+
+MIT
+
+Official Website
+
+https://aura-ai-cc.vercel.app
+
+Official GitHub
+
+https://github.com/gitsdp-dev/aura_ai_landing_page
